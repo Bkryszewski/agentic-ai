@@ -20,6 +20,21 @@ This section outlines how organizations typically begin with Agentic AI.
 
 ---
 
+## Platform Acceleration vs Traditional Delivery
+
+![Accelerator vs Traditional Delivery](assets/images/accelerator-vs-traditional.png)
+
+This comparison illustrates the difference between deploying Agentic AI as a **platform accelerator** versus building from scratch.
+
+**Key takeaway for executives:**
+- Traditional approaches accumulate cost linearly with time
+- The accelerator model front-loads platform setup and compresses delivery timelines
+- Teams reach production earlier with lower cumulative investment
+
+Agentic AI is designed to be deployed as a **day-zero platform asset**, not a disposable proof of concept.
+
+---
+
 ## Week 1 Focus
 
 - Identify candidate workflows

@@ -6,6 +6,24 @@ Each capability is designed to support controlled execution, observability, and 
 
 ---
 
+## Converting Documents into Data Assets
+
+![Document to Data Pipeline](assets/images/document-to-data.png)
+
+Agentic AI treats documents as **raw material**, not final artifacts.
+
+The pipeline includes:
+1. Ingestion from multiple channels
+2. Classification to identify document type
+3. Extraction using document intelligence and OCR
+4. Enrichment with metadata and semantic context
+5. Storage across original assets, structured metadata, and embeddings
+
+**Why this matters:**  
+Downstream agents reason over **data**, not PDFs.
+
+---
+
 ## Ingestion & Data Foundations
 
 - Multi-channel ingestion (email, portals, APIs)

@@ -66,3 +66,24 @@ Agentic AI is designed for **secure, scalable, cloud-native deployment**, includ
 - Autonomy is contextual, not absolute
 - Every decision is observable
 - Governance is architectural, not procedural
+
+
+ ---
+ ## Secure, Scalable, Cloud-Native Deployment
+
+![Azure-Native Architecture](assets/images/azure-native-architecture.png)
+
+Agentic AI is deployed as a layered, cloud-native platform with clear separation of responsibilities:
+
+- **Persona / UI Layer** – User interaction and role-based access
+- **API Layer** – Secure service interfaces
+- **Orchestration Layer** – Flow-based agent coordination
+- **Data Layer** – Structured, unstructured, and vectorized storage
+- **Model Layer** – Governed access to foundation models
+
+**For CTOs:**  
+This architecture aligns with enterprise security, identity, and operations standards.
+
+**For architects:**  
+Each layer can be scaled, secured, and evolved independently.
+

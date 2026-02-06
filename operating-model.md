@@ -1,38 +1,53 @@
 # Operating Model
 
-Agentic AI is designed to operate within existing enterprise delivery and compliance models.
+Agentic AI is designed to operate within existing enterprise delivery, compliance, and governance models.
 
-It augments teams rather than replacing decision ownership.
+It augments human teams rather than replacing decision ownership.
 
 ---
 
 ## Human-in-the-Loop by Design
 
 - Review roles are explicit
-- Escalation paths are defined
-- Final authority remains with humans
+- Decision checkpoints are enforced
+- Escalation paths are predefined
+- Humans retain final authority
+
+---
+
+## Structural Oversight
+
+Workflows include **review gates** that can lock execution when:
+
+- Confidence falls below a threshold
+- Required evidence is missing
+- Policy constraints are violated
 
 ---
 
 ## Progressive Autonomy
 
-- Start with assistive workflows
-- Expand to semi-autonomous execution
-- Maintain checkpoints at risk boundaries
+- Begin with assistive execution
+- Expand to semi-autonomous workflows
+- Preserve checkpoints at risk boundaries
+- Increase automation only when defensible
 
 ---
 
-## Delivery Alignment
+## Platform Deployment Model
 
-- Compatible with Agile and hybrid delivery
-- Supports pilot-to-scale transitions
-- Designed for multi-team adoption
+Agentic AI is deployed as a **platform asset**, not a disposable experiment.
+
+Typical progression:
+1. Platform stand-up
+2. Agent tuning
+3. Pilot and user acceptance
+4. Production deployment
 
 ---
 
 ## Accountability
 
-- Clear role ownership
+- Clear ownership of decisions
 - Separation of execution and approval
 - Audit-ready operational posture
-

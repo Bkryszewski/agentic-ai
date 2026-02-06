@@ -6,6 +6,28 @@ Each layer has a distinct responsibility and clear control boundaries.
 
 ---
 
+## Enterprise Platform Services
+
+![Enterprise Platform Services](assets/images/platform-services.png)
+
+Agentic AI delivers foundational capabilities as **reusable platform services**:
+
+- Agent runtime environments
+- Flow-based orchestration
+- Embedded governance layer
+- Observability and traceability
+- Extensibility via APIs and gateways
+
+At the center are **data and models**, surrounded by execution, control, and visibility.
+
+**For CTOs:**  
+This is a platform you can standardize on.
+
+**For architects:**  
+These services can be composed into multiple solutions without rework.
+
+---
+
 ## Logical Architecture Layers
 
 ### Interaction Layer

@@ -1,29 +1,36 @@
-
 # Getting Started
 
-This section outlines how teams typically begin with Agentic AI.
+This section outlines how organizations typically begin with Agentic AI.
 
 ---
 
-## Entry Points
+## Who This Is For
 
-- Proof of concept
-- Pilot workflow
-- Embedded capability within an existing system
-
----
-
-## Recommended First Steps
-
-1. Identify candidate workflows
-2. Define decision boundaries
-3. Establish review roles
-4. Start with assistive execution
+- Teams operating in regulated environments
+- Organizations scaling beyond chat-based AI
+- Programs requiring defensible automation
 
 ---
 
-## Scaling Forward
+## Typical Entry Points
 
-- Introduce automation gradually
-- Expand agent responsibility carefully
-- Preserve governance as scope grows
+- Targeted proof of value
+- Pilot workflow embedded in an existing process
+- Platform deployment with a limited agent set
+
+---
+
+## Week 1 Focus
+
+- Identify candidate workflows
+- Define decision boundaries
+- Establish governance roles
+- Deploy baseline platform components
+
+---
+
+## What Comes Next
+
+- Incremental expansion of agent capabilities
+- Introduction of additional workflows
+- Progressive increase in automation with preserved controls

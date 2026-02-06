@@ -1,46 +1,68 @@
-
 # Core Capabilities
 
-Agentic AI is designed around **capabilities**, not autonomous outcomes.
+Agentic AI is built around **capability pillars**, not autonomous outcomes.
 
-The system emphasizes control, observability, and human authority over execution.
-
----
-
-## Agentic Orchestration
-
-- Sequential and conditional agent execution
-- Explicit prompt and step orchestration
-- Deterministic workflow control over probabilistic outputs
+Each capability is designed to support controlled execution, observability, and human authority.
 
 ---
 
-## Decision Gates
+## Ingestion & Data Foundations
 
-- Human-in-the-loop checkpoints
-- Policy-based approval and escalation paths
-- Prevention of silent agent drift
-
----
-
-## Contextual Intelligence (RAG)
-
-- Structured document and data ingestion
-- Multi-source context assembly
-- Provenance-aware grounding
+- Multi-channel ingestion (email, portals, APIs)
+- Structured document intake and classification
+- Conversion of unstructured content into usable data assets
+- Separation of original assets, metadata, and embeddings
 
 ---
 
-## Review & Explainability
+## Specialized Agents (Not Generic Assistants)
 
-- Reviewer agents for validation
+Agentic AI employs **specialized agents**, each with a clearly defined responsibility.
+
+Examples include:
+- Operational agents (intake, validation, routing)
+- Reasoning and analysis agents
+- Governance and audit agents
+- Data and knowledge agents
+
+This separation of concerns prevents agent overload and improves reliability.
+
+---
+
+## Agent Runtime
+
+- Purpose-built execution environments for agents
+- Isolation of agent responsibilities
+- Deterministic execution boundaries
+- Support for parallel and sequential processing
+
+---
+
+## Orchestration
+
+- Flow-based coordination of agents
+- Intent-based task routing
+- Parallel execution where appropriate
+- State-aware workflow progression
+
+The orchestrator governs *how* and *when* agents act.
+
+---
+
+## Governance & Observability
+
+- Runtime policy enforcement
+- Confidence scoring and decision thresholds
+- Full traceability across agent actions
 - Evidence-linked outputs
-- Traceable reasoning paths
+
+Governance is enforced **during execution**, not after the fact.
 
 ---
 
-## Integration & Extensibility
+## Extensibility
 
 - API-first design
 - Pluggable agent patterns
-- Designed for staged handoffs to specialized systems
+- Integration with enterprise platforms and services
+- Support for staged handoffs to specialized systems

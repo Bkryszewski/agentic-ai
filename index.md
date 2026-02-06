@@ -1,8 +1,8 @@
-# STAR AI
+# Agentic AI
 
 System of Intelligence for agentic workflows, decision governance, and enterprise execution.
 
-This site documents the architecture, capabilities, and operating model of STAR AI.
+This site documents the architecture, capabilities, and operating model of Agentic AI.
 
 ---
 

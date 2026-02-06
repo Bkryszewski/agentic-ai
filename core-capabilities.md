@@ -33,17 +33,23 @@ Downstream agents reason over **data**, not PDFs.
 
 ---
 
-## Specialized Agents (Not Generic Assistants)
+## Specialized Agents, Not Generic Assistants
 
-Agentic AI employs **specialized agents**, each with a clearly defined responsibility.
+![Specialized Agents](assets/images/specialized-agents.png)
 
-Examples include:
-- Operational agents (intake, validation, routing)
-- Reasoning and analysis agents
-- Governance and audit agents
-- Data and knowledge agents
+Agentic AI is built on **separation of concerns**.
 
-This separation of concerns prevents agent overload and improves reliability.
+Different agents are responsible for:
+- Operational execution
+- Reasoning and analysis
+- Governance and audit
+- Data and knowledge access
+
+**Key architectural principle:**  
+The agent that *detects* an event is not the agent that *reports* it.
+
+This separation increases reliability, auditability, and trust.
+
 
 ---
 

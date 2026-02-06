@@ -1,37 +1,43 @@
-
 # Governance
 
-Governance in Agentic AI is **part of the system**, not an external control layer.
+Governance in Agentic AI is **embedded into execution**, not layered on afterward.
 
 ---
 
-## Decision Traceability
+## Why Prompt-Based GenAI Fails in Regulated Workflows
 
-Every material output is linked to:
-- Source inputs
-- Agent steps
-- Human decisions
-
----
-
-## Policy Enforcement
-
-- Rule-based constraints
-- Context-aware guardrails
-- Domain-specific compliance checks
+- Single-shot prompts lack state and context
+- Post-generation human review creates bottlenecks
+- Black-box outputs lack evidence lineage
+- Policy-only controls are reactive, not preventative
 
 ---
 
-## Risk Containment
+## Embedded Governance Model
 
-- Detection of inconsistent behavior
-- Prevention of uncontrolled autonomy
-- Support for rollback and review
+Agentic AI enforces governance through:
+
+- Runtime policy interception
+- Confidence scoring and thresholds
+- Mandatory review gates
+- Evidence validation before output
 
 ---
 
-## Audit Readiness
+## Evidence-Based Reasoning
 
-- Structured logs
-- Evidence-based outputs
-- Reviewer annotations
+The system refuses to act when:
+- Source evidence is missing
+- Lineage cannot be established
+- Outputs cannot be traced to inputs
+
+---
+
+## Audit & Traceability
+
+- Every decision is logged
+- Agent actions are recorded
+- Human approvals are captured
+- Outputs are linked to source evidence
+
+Governance is continuous, not episodic.
